@@ -1,6 +1,6 @@
 # WP Custom Plugin Admin
 
-Minimalist [Wordpress](https://wordpress.org/) plugin for a personalized administration interface.
+Minimalist [Wordpress](https://wordpress.org/) plugin to apply custom CSS to Admin Area.
 
 # Features
 
