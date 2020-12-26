@@ -7,3 +7,11 @@ li#wp-admin-bar-wp-logo,
 div#wpfooter {
   display: none;
 }
+#wpadminbar,
+#adminmenu,
+#adminmenu .wp-submenu,
+#adminmenuback,
+#adminmenuwrap {
+  color: #ccc;
+  background: #6eaf4b;
+}
