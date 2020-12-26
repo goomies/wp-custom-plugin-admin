@@ -12,7 +12,7 @@ add_action('admin_init', 'wp_custom_plugin_admin');
 
 function wp_custom_plugin_admin() {
     wp_register_style('wpcustompluginadminstylesheet', '/wp-content/plugins/wp-custom-plugin-admin/css/admin.css');
-    add_action('admin_print_styles' 'wp_custom_plugin_admin_style');
+    add_action('admin_print_styles', 'wp_custom_plugin_admin_style');
 
     function wp_custom_plugin_admin_style() {
         wp_enqueue_style('wpcustompluginadminstylesheet');
