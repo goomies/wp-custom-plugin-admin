@@ -1,13 +1,9 @@
-li#menu-posts {
+li#menu-posts,
+li#menu-posts-personnel,
+li#menu-posts-portfolio,
+li#menu-posts-gdlr_core_header,
+li#toplevel_page_envato-market,
+li#wp-admin-bar-wp-logo,
+div#wpfooter {
   display: none;
-}
-.wp-admin .comment pre {
-  background: pink; /* they forgot the language! */
-  padding: 6px 10px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-}
-
-.wp-admin .comment pre[class] {
-  background: #fff; /* language (likely) there */
 }
